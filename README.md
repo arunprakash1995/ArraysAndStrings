@@ -7,4 +7,5 @@ Algos on Arrays and Strings
 5. Permutation - Check if the string is a permutaion of palindrome
 6. String compressor
 7. String Comparator - Check if two strings are one edit away
+8. ZeroMatrix
 
